@@ -4,6 +4,14 @@ I need an example set to show whether global application state is practical usin
 React hooks, using redux-toolkit as a control since it is acknowledged to handle global
 state management in an efficient manner
 
+# The example libraries
+
+There are 2 example applications
+   - https://github.com/Mic1/react-redux-global-state
+   - https://github.com/Mic1/react-context-global-state
+
+This one is the redux example
+
 ## It's all about rendering!
 
 There are published caveats about using React hooks for state management because
